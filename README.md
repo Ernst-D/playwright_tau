@@ -1,12 +1,17 @@
-# 🎭 Playwright with JavaScript - Test Automation University
+# 🎭 Playwright with JavaScript
+**Originally adopted from Test Automation University [course](https://testautomationu.applitools.com/js-playwright-tutorial/).**
+
 This repo contain all the examples in this course.
 
 #  Pre-requisites
 
-- [NodeJs](https://nodejs.org/en/)
+- NVM (Node Version Manager)
+    - [Unix](https://github.com/nvm-sh/nvm#installing-and-updating)
+    - [Windows](https://github.com/coreybutler/nvm-windows#installation--upgrades) 
+    
+    Install nvm and use active LTS version of nodejs. [More about lts versions](https://nodejs.org/en/about/releases/).
+    
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Applitools API key](https://auth.applitools.com/users/register)
-- [Introduction to JavaScript](https://testautomationu.applitools.com/javascript-tutorial/)
 
 # How to use this repository
 This repo contains the code for the chapters of this course, every chapter has its own branch:
