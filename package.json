@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ixmeza/playwright_tau#readme",
   "devDependencies": {
-    "playwright": "^1.11.1"
+    "@playwright/test": "^1.17.2"
   }
 }
